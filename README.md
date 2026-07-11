@@ -66,3 +66,6 @@
 
 ## Added Product Add Stock Page
 <img src="screenshots/product_add_stock.png" style="width:100%" alt="Products"/>
+
+
+https://chatgpt.com/share/6a3bc2e0-2820-83ee-96cb-efea022d7361
